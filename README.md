@@ -1,2 +1,2 @@
 # ColorAvg
-Color averaging
+Color averaging draw
