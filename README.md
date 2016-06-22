@@ -1,2 +1,2 @@
 # ColorAvg
-Color avaraging
+Color averaging
